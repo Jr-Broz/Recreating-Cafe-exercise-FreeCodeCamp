@@ -1,0 +1,109 @@
+h1 {
+      text-align: center;
+      font-family: fantasy;
+      
+    }
+    h1:hover{
+      color:#5a2f07;
+    }
+
+
+    #firstP {
+      text-align: center;
+      font-family: sans-serif
+
+    }
+
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      display-block: 
+
+    }
+
+
+    #CoffeeF {
+      text-align: center;
+      font-family: fantasy
+    }
+
+    hr {
+      background-color: brown;
+      border-color: brown;
+      height: 3px;
+    }
+
+      .linhaCardapio{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        
+        
+      }
+
+    .cardapioDesserts{
+
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+     
+        font-family: cursive;
+    }
+
+main{
+  background-color:#e0b788;
+  margin:  auto;
+  width: 560px;
+}
+
+  .desserts{
+     text-align: center;
+      font-family: fantasy;
+   
+  }
+
+  footer{
+     text-align: center;
+  }
+
+a{
+  color:black;
+ 
+}
+
+    a:hover{
+      color:red;
+    }
+    
+
+body{
+
+  background-image: url('beans.jpg');  
+}
+
+
+.linhaCardapio{
+    font-family: cursive;
+  
+}
+
+ .linhaCardapio:hover{
+
+  color:#5a2f07;
+}
+
+
+.cardapioDesserts:hover{
+  
+    color:#5a2f07;
+}
+
+h2{
+
+}
+
+h2:hover{
+  
+  color:#5a2f07;
+}
